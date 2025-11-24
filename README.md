@@ -1,6 +1,3 @@
-# it-helpdesk-procedures
-Procédures IT professionnelles : création d’utilisateur, reset mot de passe, installation d'imprimante, dépannage Outlook, ITIL basique, Workplace.
-
 # Procédures IT — Helpdesk / Workplace / ITIL (Niveau Junior)
 
 Ce dépôt regroupe un ensemble de **procédures IT professionnelles**, rédigées dans un format clair et réutilisable.  
